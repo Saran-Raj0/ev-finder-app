@@ -108,6 +108,10 @@ h2 {
   background-color: #f4f4f4;
 }
 
+.google-button:hover {
+  background-color: #fcfcfc;
+}
+
 .google-logo {
   width: 30px;
   height: 30px;
