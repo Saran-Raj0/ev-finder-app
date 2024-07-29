@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ev-booking/static/css/main.32979ee0.css",
+    "main.js": "/ev-booking/static/js/main.13b2b97a.js",
+    "static/js/453.38d3a557.chunk.js": "/ev-booking/static/js/453.38d3a557.chunk.js",
+    "static/media/login_image.png": "/ev-booking/static/media/login_image.20986f8564163b051475.png",
+    "static/media/google_logo.png": "/ev-booking/static/media/google_logo.81fdb134397492b14f45.png",
+    "index.html": "/ev-booking/index.html",
+    "main.32979ee0.css.map": "/ev-booking/static/css/main.32979ee0.css.map",
+    "main.13b2b97a.js.map": "/ev-booking/static/js/main.13b2b97a.js.map",
+    "453.38d3a557.chunk.js.map": "/ev-booking/static/js/453.38d3a557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32979ee0.css",
+    "static/js/main.13b2b97a.js"
+  ]
+}
